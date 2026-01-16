@@ -3,34 +3,6 @@ import { useTheme } from '../hooks/useTheme';
 
 export const Footer = () => {
     const { theme } = useTheme();
-
-    const footerLinks = {
-        product: [
-            { label: 'Features', href: '#' },
-            { label: 'Pricing', href: '#' },
-            { label: 'Documentation', href: '#' },
-            { label: 'Changelog', href: '#' },
-        ],
-        company: [
-            { label: 'About Us', href: '#' },
-            { label: 'Blog', href: '#' },
-            { label: 'Careers', href: '#' },
-            { label: 'Contact', href: '#' },
-        ],
-        resources: [
-            { label: 'Community', href: '#' },
-            { label: 'Tutorials', href: '#' },
-            { label: 'Support', href: '#' },
-            { label: 'API', href: '#' },
-        ],
-        legal: [
-            { label: 'Privacy Policy', href: '#' },
-            { label: 'Terms of Service', href: '#' },
-            { label: 'Cookie Policy', href: '#' },
-            { label: 'Licenses', href: '#' },
-        ],
-    };
-
     return (
         <footer className="text-gray-400 mt-20" style={{ backgroundColor: theme.secondaryColor }}>
             <div className="max-w-7xl mx-auto px-6 py-12">
