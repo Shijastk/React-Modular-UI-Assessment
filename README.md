@@ -416,10 +416,3 @@ Built as a React assessment project to demonstrate:
 
 This project demonstrates my approach to building scalable, maintainable React applications. Happy to discuss any architectural decisions or walk through the code!
 
----
-
-**Built with ☕ and attention to detail**
-
-*Time invested: ~12 hours*  
-*Lines of code: ~1,500*  
-*Coffee consumed: Too much* ☕
