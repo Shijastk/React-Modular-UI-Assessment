@@ -1,0 +1,5 @@
+{
+  "name": "Modular Config-Driven UI",
+  "description": "A React application where the entire layout, components, and theme are driven by a centralized JSON configuration, featuring a dynamic component resolver and custom hooks for theme management.",
+  "requestFramePermissions": []
+}
